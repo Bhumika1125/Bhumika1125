@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 🚀 About Me
 - 🔭 I’m currently working on  project - **HIYA**
+
+🛠️ Tech Stack & Tools
+- **Languages:** Java, Python, SQL, C
+- **Tools & Platforms:** GitHub, VS Code
